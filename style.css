@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Josefin+Sans:ital,wght@1,300&family=League+Spartan&family=Montserrat&family=Press+Start+2P&display=swap");
+
+/* 
+font-family: 'Amatic SC', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Press Start 2P', cursive; */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.nav__bar {
+  background: #b5c99a00;
+  border-radius: 0.5em;
+  margin: 10px 0px;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+body {
+  background: #dfe7fd;
+  font-family: "League Spartan", sans-serif;
+  min-height: 105vh;
+}
+a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.486);
+  font-weight: 600;
+}
+a:hover {
+  color: #000;
+}
+.para {
+  background: #cddafd;
+  border-radius: 1em;
+  border: 1px solid #cddafd;
+  padding: 3px 3px;
+  margin: 3px 3px;
+}
+.heading {
+  font-family: "Amatic SC", cursive;
+  font-weight: 600;
+  color: #505052b6;
+  margin-top: 10px;
+}
+.holi__image {
+  border: 4px solid #a4bdff;
+  margin: 5px 5px;
+  border-radius: 1em;
+}
+.logo{
+  margin-top: 15px;
+  margin-bottom: 40px;
+  font-family: "Amatic SC", cursive;
+  font-size: 45px;
+
+  text-shadow: 0 2px 2px #ff0000, -2px 5px 0 #ff7f00, -4px 10px 0 #ffff00,
+-8px 15px 0 #00ff00, -12px 20px 0 #0000ff, -16px 25px 0 #4b0082,
+-20px 30px 0 #9400d3;
+}
+
+
+/* text-shadow: 0 2px 2px #ff0000, -2px 5px 0 #ff7f00, -4px 10px 0 #ffff00,
+-8px 15px 0 #00ff00, -12px 20px 0 #0000ff, -16px 25px 0 #4b0082,
+-20px 30px 0 #9400d3; */
